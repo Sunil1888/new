@@ -1,4 +1,7 @@
 line 1
 hii from master
 hii again from master
+<<<<<<< Updated upstream
 hii again 2 from master
+=======
+>>>>>>> Stashed changes
